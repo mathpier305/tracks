@@ -29,8 +29,7 @@ const SigninScreen = ({navigation}) => {
 
 SigninScreen.navigationOptions = {
     header: null
-
-}
+};
 
 const styles = StyleSheet.create({
     container: {
